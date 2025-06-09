@@ -1,14 +1,14 @@
-🎨 Modern Portfolio: Responsive, Bold & Beautiful
-Designed with HTML5, Sass, and Bootstrap 5, this portfolio is a sleek showcase of your skills and projects, optimized for every device.
+🌐 Responsive Portfolio Website
+A sleek and responsive portfolio website built with HTML5, CSS3, Sass, and Bootstrap 5. Showcase your skills, projects, and achievements with a design that adapts seamlessly across devices.
 
-🔧 Tech Stack
+🛠️ Technologies Used
 HTML5: Semantic structure for clarity and SEO.
 
-Sass: Modular, maintainable styling with variables and mixins.
+CSS3 (Sass): Modular and maintainable styling.
 
-Bootstrap 5: Responsive grid and components for consistency.
+Bootstrap 5: Responsive grid and components.
 
-Font Awesome: Elegant icons for intuitive navigation .
+JavaScript: Interactive elements and functionality.
 
 📱 Responsive Design
 Desktop: Multi-column layouts with hover effects.
@@ -17,23 +17,23 @@ Tablet: Two-column stacking and collapsible navbar.
 
 Mobile: Single-column scrolling with touch-friendly elements.
 
-
-💡 Features
-Smooth Scrolling: Seamless transitions between sections.
-
-Interactive Elements: Hover effects and modals for engagement.
-
-Accessible Navigation: Sticky navbar with clear links.
-
 🎨 Design Aesthetics
 Bold Typography: Clear, readable fonts with emphasis on key information.
 
 Minimalist Layout: Clean design focusing on content.
 
 Consistent Color Scheme: Harmonious palette enhancing readability.
-muz.li
+themewagon.com
++1
+webfontsplugin.com
++1
 
+🚀 Features
+Smooth Scrolling: Seamless transitions between sections.
 
+Interactive Elements: Hover effects and modals for engagement.
+
+Accessible Navigation: Sticky navbar with clear links.
 
 DESKTOP VIEW (LARGE)
 
